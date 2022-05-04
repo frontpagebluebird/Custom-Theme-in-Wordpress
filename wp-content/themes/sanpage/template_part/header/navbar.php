@@ -1,3 +1,11 @@
+   <?php
+   /**
+    * Navbar for Header Template 
+    * 
+    * @package sanpage
+    */
+   ?>
+   
    <!-- Navbar -->
    <nav class="navbar navbar-expand-lg navbar-light bg-white shadow-2">
   <!-- Container wrapper -->
