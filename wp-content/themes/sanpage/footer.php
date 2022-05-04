@@ -5,6 +5,9 @@
  * @package sanpage
  */
 ?>
-footer
 
-<!-- Dynamic links --> <?php wp_footer(); ?> <!-- e.g., <script src="script.js"></script> -->
+</div>
+</div>
+
+<!-- Dynamic links of wp-include directory -->
+ <?php wp_footer(); ?>                    <!-- e.g., <script src="script.js"></script> -->
